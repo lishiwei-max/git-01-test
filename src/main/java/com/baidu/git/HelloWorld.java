@@ -9,6 +9,7 @@ package com.baidu.git;
  */
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("你好：Hello World世界");
+        System.out.println("Hello World");
+        System.out.println("aaaaaaa");
     }
 }
